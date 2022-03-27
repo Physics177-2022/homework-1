@@ -1,6 +1,6 @@
 # Homework 1
 
-**Due Friday, October 16**
+**Due Friday, April 8**
 
 The goal of our first homework assignment is simply to get you acquainted with the primary tools we'll be using in this class: [Python](https://www.python.org/), [Jupyter notebooks](https://jupyter.org/), and [GitHub](https://github.com/).
 
@@ -20,7 +20,7 @@ What if you can't install Python and Jupyter on your machine? In that case, you 
 
 Sign up for a free [GitHub account](https://github.com/) using your UCR email address. It's a good idea to choose a professional user name, because the work you post on GitHub can be an important part of your CV when applying for academic or industry positions.
 
-Follow [this link](https://classroom.github.com/a/7tcO-38P) to sign up for GitHub Classroom and download a copy of this repository.
+Follow [this link](https://classroom.github.com/a/rXJKfKSU) to sign up for GitHub Classroom and download a copy of this repository.
 
 ## 4. Practice basic Jupyter
 
